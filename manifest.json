@@ -5,7 +5,7 @@
   "iconPath": "uwu.svg",
   "icons": [
     {
-      "src": "favicon32.png",
+      "src": "logo.png",
       "sizes": "32x32",
       "type": "image/png"
     }
